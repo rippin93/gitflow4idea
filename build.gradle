@@ -31,7 +31,7 @@ patchPluginXml {
     pluginDescription 'Git Flow Integration'
     version '0.7.0'
     sinceBuild '182.0'
-    untilBuild '192.*'
+    untilBuild '193.*'
     changeNotes """
 
       <H2>Changelog for 0.7.0</H2>
